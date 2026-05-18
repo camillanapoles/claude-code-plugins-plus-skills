@@ -2,13 +2,13 @@
 
 [![Release](https://img.shields.io/badge/release-v4.30.0-green)](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/releases/tag/v4.30.0)
 [![CLI](https://img.shields.io/badge/CLI-ccpi-blueviolet?logo=npm)](https://www.npmjs.com/package/@intentsolutionsio/ccpi)
-[![Plugins](https://img.shields.io/badge/plugins-425-blue)](https://tonsofskills.com/explore)
+[![Plugins](https://img.shields.io/badge/plugins-427-blue)](https://tonsofskills.com/explore)
 [![Skills](https://img.shields.io/badge/skills-2%2C810-green)](https://tonsofskills.com/skills)
 [![GitHub Stars](https://img.shields.io/github/stars/jeremylongshore/claude-code-plugins-plus-skills?style=social)](https://github.com/jeremylongshore/claude-code-plugins-plus-skills)
 [![Sponsor: Nixtla](https://img.shields.io/badge/Sponsor-nixtla.io-ff6b35)](https://nixtla.io)
 [![Buy me a monster](https://img.shields.io/badge/Buy%20me%20a-Monster-FFDD00?logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jeremylongshore)
 
-425 plugins, 2,810 skills, 200 agents, 16 community contributors — validated and ready to install.
+427 plugins, 2,810 skills, 200 agents, 16 community contributors — validated and ready to install.
 
 ```bash
 pnpm add -g @intentsolutionsio/ccpi    # Install the CLI
@@ -770,7 +770,7 @@ Generates idempotent Ansible playbooks following infrastructure-as-code best pra
 | Metric                | Count |
 | --------------------- | ----- |
 | Total skills          | 2,810 |
-| Plugins (marketplace) | 425   |
+| Plugins (marketplace) | 427   |
 | Agents                | 200   |
 | Plugin categories     | 18    |
 | Contributors          | 16    |
@@ -779,7 +779,7 @@ Generates idempotent Ansible playbooks following infrastructure-as-code best pra
 
 ## Plugin Types
 
-### AI Instruction Plugins (309 plugins)
+### AI Instruction Plugins (311 plugins)
 
 Markdown files that guide Claude's behavior through structured instructions, skills, commands, and agents. No external code — everything runs through Claude's built-in capabilities.
 
@@ -990,4 +990,4 @@ MIT License — See [LICENSE](LICENSE) for details.
 
 ---
 
-**Version**: 4.20.0 | **Last Updated**: March 2026 | **Skills**: 2,810 | **Plugins**: 425
+**Version**: 4.20.0 | **Last Updated**: March 2026 | **Skills**: 2,810 | **Plugins**: 427
